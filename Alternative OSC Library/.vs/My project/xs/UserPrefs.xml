@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BoxOSC.cs">
+    <Files>
+      <File FileName="Assets/extOSC/Examples/01) Getting Started/Scripts/SimpleMessageReceiver.cs" Line="31" Column="4" />
+      <File FileName="Assets/BoxOSC.cs" Line="4" Column="1" />
+      <File FileName="../SceneLoadingExample/Assets/boxScript.cs" Line="146" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c63febc7-72bf-4e07-8b47-59c13e358742" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

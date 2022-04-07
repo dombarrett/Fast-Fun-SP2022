@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8717E474-0DA0-CB3D-44C2-5E30E6790917}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BoxOSC.cs">
+    <Files>
+      <File FileName="Assets/BoxOSC.cs" Line="125" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f0c3116-0153-4c98-a4d3-c9ce6d468ab7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
